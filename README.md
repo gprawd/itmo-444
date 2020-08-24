@@ -1,4 +1,3 @@
-# itmo-444
 # Greg Prawdzik
 
 ![Family](images/family.jpg "Family")
