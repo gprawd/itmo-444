@@ -9,7 +9,7 @@ Using Vagrant, you will initialize a Vagrant Box for Ubuntu 18.04.5 -- `ubuntu/b
 * Install the [AWS CLI version 2 for Linux](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html "AWS CLI v2 for Linux") tools in the Vagrant Box
   * Screenshot the output of the command: `aws --version`
   * Only one screenshot is needed to show both deliverables
-![Git Tutorial](./images/awscli.png "Result")
+![Git Tutorial](images/awscli.png "Result")
 
 ## Part 2
 
