@@ -9,12 +9,13 @@ Using Vagrant, you will initialize a Vagrant Box for Ubuntu 18.04.5 -- `ubuntu/b
 * Install the [AWS CLI version 2 for Linux](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html "AWS CLI v2 for Linux") tools in the Vagrant Box
   * Screenshot the output of the command: `aws --version`
   * Only one screenshot is needed to show both deliverables
-![AWS CLI](images/awscli.png "Result")
+![AWS CLI](images/awscli.PNG "Result")
 
 ## Part 2
 
 * Upon successfully created and AWS account, using the IAM (Identity and Access Management), create a non-root account for use during this class.  
   * Take a screenshot of the management console of you logged into this non-root account
+![AWS CLI](images/iam.PNG "Result")
 
 ## Part 3
 
